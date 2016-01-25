@@ -8,7 +8,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Using Date Parts</title>
+		<title>Using Date</title>
 	</head>
 	<body>
 		<h1>Using Date Parts to Control Output</h1>
